@@ -14,3 +14,14 @@ $ ./chat_server.rs
 ```
 $ ./chat_client.rs
 ```
+
+4. chat
+```
+connected to 127.0.0.1:8888
+your name?
+A
+A, enter your message.
+Hi
+[receive] A> Hi
+[receive] B> Hello
+```
